@@ -1,7 +1,7 @@
 {
-  "name": "Tim smene",
-  "short_name": "Smene",
-  "description": "Pregled smena za ceo tim.",
+  "name": "Raspored za finansije",
+  "short_name": "Fin smene",
+  "description": "Pregled smena za Top-Bet finansijski tim.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f8fafc",
